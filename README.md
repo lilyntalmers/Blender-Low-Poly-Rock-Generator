@@ -1,10 +1,10 @@
-## Blender (2.8+) - Low Poly Rock Generator
+## Blender (3.0.0) - Low Poly Rock Generator
 
-This is an [addon](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html) for [Blender](https://www.blender.org/) 2.8+ to generate low poly rocks.  
+This is an [addon](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html) for [Blender](https://www.blender.org/) 3.0.0 to generate low poly rocks.  
 
-It was [based on an addon](https://github.com/Bombaba/BlenderPythonScripts/blob/master/add_mesh_lowpoly_rock.py) that unfortunately hasn't been updated, so I decided to try and write a new one for myself as I needed quite a few low poly rocks. 
+It was [based on an addon](https://github.com/PopThosePringles/blender-low-poly-rock) that unfortunately hasn't been updated, so I decided to ask for help to fix it. And a generous person on BlenderArtist helped me to fix it. So, I'm uploading it in here in case someone needs it future. 
 
-I don't know Python very well at all, so I had to learn on the fly while writing this.  With that, it means this isn't identical to the old addon, but it does the job for me.  It's far from perfect.
+I don't know Python at all, but it gets the job done for me in Blender 3.0.0. Here is the thread: [BlenderArtist Thread](https://blenderartists.org/t/low-poly-rock-generator-script-showing-error-in-blender-3-0-0/1354349)
 
 ![](/images/rocks.png)
 
